@@ -1,0 +1,5 @@
+# These files hold the credentials for connecting to the Riot API and a personal MongoDB
+RIOTAPIKEY.PY
+DBKEYS.PY
+
+__pycache__/
