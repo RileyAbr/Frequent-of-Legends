@@ -1,1 +1,1 @@
-# CSCI479-Project
+# Frequent-of-Legends
